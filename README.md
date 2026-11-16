@@ -102,8 +102,3 @@ flutter doctor --android-licenses
 - Android SDK
 - Gradle
 
-## 9. Autor
-
-**Arbey Esteban Torres Hernández**
-
-Proyecto académico: MiAgenda.
